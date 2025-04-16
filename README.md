@@ -25,8 +25,9 @@ This is a web-based personal expense tracker built with **Streamlit**. It allows
 
 ## 📦 Installation (For local use)
 
-pip install -r requirements.txt
+pip install -r requirements.txt  
 streamlit run app.py
+
 
 ## 🌍 Live Demo  
 🎯 **Try the live app here:**  
