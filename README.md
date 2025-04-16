@@ -31,4 +31,4 @@ streamlit run app.py
 
 ## 🌍 Live Demo  
 🎯 **Try the live app here:**  
-🔗 [Personal Expense Tracker (Live)](https://personal-expense-tracker-2ihmd2ypqmecgqv7ng6ecg.streamlit.app/)  
+[🔗 Personal Expense Tracker (Live)](https://personal-expense-tracker-2ihmd2ypqmecgqv7ng6ecg.streamlit.app/)
